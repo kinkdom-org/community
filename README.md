@@ -1,2 +1,5 @@
-# community
-Where it all started. Kinkdom Discord server.
+# Kinkdom Community
+
+
+Kinkdom Discord server.
+*Navigation coming soon.*
