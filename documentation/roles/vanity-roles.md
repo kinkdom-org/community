@@ -1,44 +1,46 @@
 # Vanity roles
 
 
-<span style="color:#b9b9b9">Innocent</span> (*default*)
+### Innocent
+
+Server default. All members start with this role.
 
 
-<span style="color:#91d67c">Tempted</span>
+### Tempted
 
-Price: 100 gems
-
-
-<span style="color:#87cefa">Playful</span>
-
-Price: 250 gems
+Price: 100 💎
 
 
-<span style="color:#4b93db">Naughty</span>
+### Playful
 
-Price: 500 gems
-
-
-<span style="color:#9689d1">Lustful</span>
-
-Price: 1,000 gems
+### Price: 250 💎
 
 
-<span style="color:#ec407a">Perverse</span>
+### Naughty
 
-Price: 2,500 gems
-
-
-<span style="color:#21e4c6">Obscene</span>
-
-Price: 5,000 gems
+Price: 500 💎
 
 
-<span style="color:#01796f">Lewd</span>
+### Lustful
 
-Price: 10,000 gems
+Price: 1,000 💎
 
 
-<span style="color:#100c08">Shameless</span>
+### Perverse
 
-Price: 25,000 gems
+Price: 2,500 💎
+
+
+### Obscene
+
+Price: 5,000 💎
+
+
+### Lewd
+
+Price: 10,000 💎
+
+
+### Shameless
+
+Price: 25,000 💎
