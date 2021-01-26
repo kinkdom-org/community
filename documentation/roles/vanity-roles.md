@@ -13,7 +13,7 @@ Price: 100 💎
 
 ### Playful
 
-### Price: 250 💎
+Price: 250 💎
 
 
 ### Naughty
