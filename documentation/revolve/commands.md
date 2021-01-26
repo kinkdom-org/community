@@ -3,12 +3,12 @@
 
 ### +approve
 
-Used by staff members (only) in #welcome_chat to approve a joining user. Revolve will notify the approved user, and log the approval in #operator_logs. Before using, manually apply the correct roles to the user (Innocent, Kinkster, [gender], [orientation]).
+Used by staff members (only in `#welcome_chat`) to approve a joining user. Revolve will notify the approved user, and log the approval in `#operator_logs`. Before using, manually apply the correct roles to the user (`Innocent`, `Kinkster`, `[gender]`, `[orientation]`).
 
 
 ### +patreon
 
-Used by patrons (only in #patron_chat) to claim their Patreon rewards.
+Used by patrons (only in `#patron_chat`) to claim their Patreon rewards.
 
 
 `+patreon credit <name>`
