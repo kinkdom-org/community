@@ -15,6 +15,11 @@ A list of Kinkdom's core commands! These are the commands which don't fit in the
 > Description: Doing this will show you how many gems you got. Nice n' simple!
 
 
+### /upgrade
+
+> Description: Upgrade your vanity role. See prices [here](https://github.com/kinkdom-org/community/blob/main/documentation/roles/vanity-roles.md).
+
+
 ### /challengelog
 
 > Description: This command will show you this week's challenges. Complete them to earn gems and other rewards! You do this by RPing in the rooms relevant to the challenges. There's up to three tiers of challenges you can complete!
