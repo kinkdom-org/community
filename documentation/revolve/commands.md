@@ -23,4 +23,4 @@ Used by patrons (only in `#patron_chat`) to claim their Patreon rewards.
 
 ### +reset
 
-Used by staff members in roleplay rooms to reset the room. This command is currently under development.
+Used by staff members in roleplay rooms to reset the room.
